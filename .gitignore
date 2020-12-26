@@ -1,0 +1,3 @@
+node_modules/
+dist/
+/koishi.config.js
