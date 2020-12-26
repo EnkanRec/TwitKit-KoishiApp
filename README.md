@@ -1,4 +1,5 @@
 # twitkit-app
+[![Build Status](https://travis-ci.com/EnkanRec/TwitKit-KoishiApp.svg?branch=main)](https://enkanrec.github.io/TwitKit-KoishiApp/)
 
 基于koishi框架的APP部分，业务逻辑依赖于其他组件
 
